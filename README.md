@@ -1,25 +1,80 @@
 # 🎬 Movie Wishlist on Chain
 
-## 1. Project Title
+A decentralized movie tracking application built on the Stacks blockchain using Clarity smart contracts.
 
-Movie Wishlist: Share and Track Movies to Watch
+## 1. Project Title
+**Movie Wishlist: Share and Track Movies to Watch**
 
 ## 2. Project Description
+This Clarity smart contract allows users to add movies to their personal wishlist and retrieve them anytime. It ensures immutability and ownership of wishlists on the Stacks blockchain. Users can maintain their movie collections in a decentralized manner, with data stored permanently on-chain and protected from censorship or service shutdowns.
 
-This Clarity smart contract allows users to add movies to their personal wishlist and retrieve them anytime. It ensures immutability and ownership of wishlists on the Stacks blockchain.
+### Key Features
+- **Decentralized Storage**: All wishlist data is stored on the Stacks blockchain
+- **User Ownership**: Each user maintains full control over their movie lists
+- **Immutable Records**: Once added, movies remain permanently accessible
+- **Privacy-First**: No centralized entity can access or manipulate user data
+- **Cross-Platform Access**: Access your wishlist from any Stacks-compatible application
 
 ## 3. Project Vision
+To create a decentralized and transparent platform where users can maintain and share their movie watchlists without relying on centralized services. We envision a future where entertainment preferences are owned by users, not platforms, fostering a more open and user-centric entertainment ecosystem.
 
-To create a decentralized and transparent platform where users can maintain and share their movie watchlists without relying on centralized services.
+## 4. Technical Architecture
 
-## 4. Future Scope
+### Smart Contract Structure
+- **Language**: Clarity (Stacks blockchain)
+- **Storage**: On-chain data maps for user wishlists
+- **Access Control**: Principal-based authentication
+- **Gas Optimization**: Efficient read/write operations
 
-- Allow deleting movies from wishlist
-- Enable sharing wishlists with other users
-- Add metadata like genres, release year, and trailers
-- Integrate with social platforms for movie recommendations
-- Reward users for watching or reviewing movies
+### Core Functions
+- `add-movie`: Add a movie to user's wishlist
+- `get-wishlist`: Retrieve user's complete movie list
+- `get-movie-count`: Get total movies in user's wishlist
+- `movie-exists`: Check if a movie is already in wishlist
 
-## 5. Contract Address
+## 5. Installation & Usage
 
-Contract Address (Testnet): `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.movie-wishlist-on-chain`
+### Prerequisites
+- Stacks Wallet (Hiro Wallet recommended)
+- STX tokens for transaction fees
+- Access to Stacks testnet
+
+## 6. Future Scope & Roadmap
+
+### Phase 1 (Current)
+- ✅ Basic movie addition and retrieval
+- ✅ User-specific wishlists
+
+### Phase 2 (In Development)
+- 🔄 Allow deleting movies from wishlist
+- 🔄 Enable sharing wishlists with other users
+- 🔄 Add metadata like genres, release year, and ratings
+
+### Phase 3 (Planned)
+- 📋 Integration with movie databases (TMDB, IMDB)
+- 📋 Social features for movie recommendations
+- 📋 User ratings and reviews system
+- 📋 Watchlist collaboration features
+
+### Phase 4 (Future Vision)
+- 🌟 Reward system for watching or reviewing movies
+- 🌟 NFT integration for movie collectibles
+- 🌟 Cross-chain compatibility
+- 🌟 Mobile app development
+- 🌟 Integration with streaming platforms
+- 🌟 AI-powered movie recommendations
+
+## 7. Contract Information
+
+### Testnet Deployment
+- **Contract Address**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.movie-wishlist-on-chain`
+- **Network**: Stacks Testnet
+
+
+
+
+
+
+
+
+
