@@ -67,14 +67,6 @@ To create a decentralized and transparent platform where users can maintain and 
 ## 7. Contract Information
 
 ### Testnet Deployment
-- **Contract Address**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.movie-wishlist-on-chain`
-- **Network**: Stacks Testnet
-
-
-
-
-
-
-
-
+- **Contract Address**: `STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.movie-wishlist`
+![Screenshot 2025-06-16 at 7 44 22 PM](https://github.com/user-attachments/assets/ccdd95d3-fea6-43f9-8196-64a43084efb7)
 
